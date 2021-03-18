@@ -17,3 +17,8 @@
 #### 🌲 Try to be outdoors as often as I can! 🌞 Hiking during Summer ❄️ Ice Skating during Winter
 
 #### 🥇 Enjoy working with others to create effective solutions for complex problems
+
+
+<p>&nbsp;</p>
+
+### ⬇️ ⬇️ ⬇️  Check out some of the things I've worked on ⬇️ ⬇️ ⬇️
