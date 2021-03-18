@@ -1,13 +1,19 @@
-# `Hey there` 👋
+# Hey there 👋
 
-### ➡️ `My name is Chintan & I love using technology to make our lives easier!` 💻 📱 
+## ➡️ My name is Chintan & I love using technology to make our lives easier! 💻 📱 
 
-### A little more about me ⬇️
+## A little more about me ⬇️
 
 #### 🏢 Currently a Software Developer at Arctic Wolf Networks working on their Risk Platform
 
-#### 🎓 Starting my 3rd year of Computer Engineering @ University of Waterloo  
+#### 🎓 3rd year Computer Engineering Student @ University of Waterloo  
 
-#### 👨‍ Interested in Backend and Full-Stack Developement 
+#### ✅ Gained a wide variety of skills in the world of software through previous internships
 
-####  Proficient in C++, C and Golang
+#### 🚀 Interested in Backend and Full-Stack Developement
+
+#### 🌟 Proficient in C++, C and Golang
+
+#### 🌲 Try to be outdoors as often as I can! 🌞 Hiking during Summer ❄️ Ice Skating during Winter
+
+#### 🥇 Enjoy working with others to create effective solutions for complex problems
