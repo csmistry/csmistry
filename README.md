@@ -1,8 +1,7 @@
 # Hey there 👋
 
-## ➡️ My name is Chintan & I love using technology to make our lives easier! 💻 📱 
+## My name is Chintan and here's a little bit about me ⬇️
 
-## A little more about me ⬇️
 
 #### 🏢 Currently a Software Developer at Arctic Wolf Networks working on their Risk Platform
 
@@ -21,4 +20,5 @@
 
 <p>&nbsp;</p>
 
-### ⬇️ ⬇️ ⬇️  Check out some of the things I've worked on ⬇️ ⬇️ ⬇️
+
+### Check out some of the things I've worked on below and get in touch on [LinkedIn](www.linkedin.com/in/chintanmistry17)
