@@ -1,4 +1,4 @@
-# Hey there 👋
+<h1> Hey there 👋 </h1>
 
 ## My name is Chintan and here's a little bit about me ⬇️
 
