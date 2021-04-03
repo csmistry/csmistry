@@ -22,3 +22,5 @@
 
 
 ### Check out some of the things I've worked on below and get in touch on [LinkedIn](www.linkedin.com/in/chintanmistry17)
+
+### Head over to [my website](https://csmistry.github.io/personal-website/) to learn more!
