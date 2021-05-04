@@ -3,7 +3,7 @@
 ## My name is Chintan and here's a little bit about me ⬇️
 
 
-#### 🏢 Currently a Software Developer at Arctic Wolf Networks working on their Risk Platform
+#### 🏢 Recently completed my 4th co-op/internship @ Arctic Wolf Networks, working as a Software Developer on their Risk Platform
 
 #### 🎓 3rd year Computer Engineering Student @ University of Waterloo  
 
