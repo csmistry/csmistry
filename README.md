@@ -11,7 +11,7 @@
 
 #### 🚀 Interested in Backend and Full-Stack Developement
 
-#### 🌟 Proficient in C++, C and Golang
+#### 🌟 Proficient in Python, C and Golang
 
 #### 🌲 Try to be outdoors as often as I can! 🌞 Hiking during Summer ❄️ Ice Skating during Winter
 
