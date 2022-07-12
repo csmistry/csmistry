@@ -3,15 +3,15 @@
 ## My name is Chintan and here's a little bit about me ⬇️
 
 
-#### 🏢 Recently Software Developer @ Arctic Wolf Networks
+#### 🏢 Recently a FullStack Engineer @ Opal
 
-#### 🎓 3rd year Computer Engineering Student @ University of Waterloo  
+#### 🎓 4th year Computer Engineering Student @ University of Waterloo  
 
 #### ✅ Gained a wide variety of skills in the world of software through previous internships
 
 #### 🚀 Interested in Backend and Full-Stack Developement
 
-#### 🌟 Proficient in Python, C and Golang
+#### 🌟 Proficient in Python and Go
 
 #### 🌲 Try to be outdoors as often as I can! 🌞 Hiking during Summer ❄️ Ice Skating during Winter
 
@@ -21,6 +21,5 @@
 <p>&nbsp;</p>
 
 
-### Check out some of the things I've worked on below and get in touch on [LinkedIn](www.linkedin.com/in/chintanmistry17)
+### Get in touch on [LinkedIn](www.linkedin.com/in/chintanmistry17)
 
-### Head over to [my website](https://csmistry.github.io/personal-website/) to learn more!
