@@ -3,15 +3,15 @@
 ## My name is Chintan and here's a little bit about me ⬇️
 
 
-#### 🏢 Recently a Software Engineer @ Cruise
+#### 🏢 Software Engineer @ Cruise
 
-#### 🎓 4th year Computer Engineering Student @ University of Waterloo  
+#### 🎓 Computer Engineering Student Grad  
 
 #### ✅ Gained a wide variety of skills in the world of software through previous internships
 
-#### 🚀 Interested in Backend, Full-Stack and Cloud Developement
+#### 🚀 Interested in Cloud Infrastructure
 
-#### 🌟 Proficient in Python and Go
+#### 🌟 Proficient in Go
 
 #### 🥇 Enjoy working with others to create effective solutions for complex problems
 
